@@ -1,9 +1,10 @@
-# Hi there 👋 I'm Andrea Visani
+# Hi there, I'm Andrea Visani 👋
 
-I'm a passionate Computer Programmer currently pursuing my studies at Algonquin College. Eager to delve deeper into the realm of technology, I'm actively seeking exciting Co-op opportunities to apply and expand my skill set.
+I'm a dedicated computer programmer with a passion for coding and a drive to continually improve my skills. From developing algorithms to crafting efficient software solutions, I thrive on the challenges of programming and am committed to pushing the boundaries of what I can achieve through code.
 
 ## 🌱 Studies:
-I'm currently enrolled in Computer Programming at Algonquin College (take a look at my courses). I'm proud to maintain a GPA of 4.0 and have been nominated to the dean's list.
+I'm currently enrolled in [Computer Programming at Algonquin College](https://www.algonquincollege.com/sat/program/computer-programming/#courses) (take a look at my courses). 
+I'm proudly to maintaining a GPA of 4.0 and have been nominated to the dean's list.
 
 ## 📫 Contact Me:
 Feel free to reach out to me via email:
