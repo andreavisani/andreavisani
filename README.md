@@ -11,7 +11,7 @@ Feel free to reach out to me via email:
 - visa0004@algonquinlive.com
 - visaniandrea.92@gmail.com
 
-Let's connect on [LinkedIn](www.linkedin.com/in/andreavisani)
+Let's connect on [LinkedIn](https://www.linkedin.com/in/andreavisani/)
 
 ## Extra:
 Beyond my academic pursuits, I am a fervent soccer enthusiast. Recently, I uncovered a newfound passion for indoor climbing, and I pride myself on being a proficient home cook.
