@@ -4,7 +4,7 @@ I'm a dedicated computer programmer with a passion for coding and a drive to con
 
 ## 🌱 Studies:
 I'm currently enrolled in [Computer Programming at Algonquin College](https://www.algonquincollege.com/sat/program/computer-programming/#courses) (take a look at my courses). 
-I'm proudly to maintaining a GPA of 4.0 and have been nominated to the dean's list.
+I'm proudly maintaining a GPA of 4.0 and have been nominated to the dean's list.
 
 ## 📫 Contact Me:
 Feel free to reach out to me via email:
