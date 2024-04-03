@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I'm Andrea Visani
+
+I'm a dedicated Computer Programming enthusiast currently pursuing my studies at Algonquin College. Eager to delve deeper into the realm of technology, I'm actively seeking exciting Co-op opportunities to apply and expand my skill set.
+
+## 🌱 Studies:
+I'm currently enrolled in Computer Programming at Algonquin College (take a look at my courses). I'm proud to maintain a GPA of 4.0 and have been nominated to the dean's list.
+
+
+
 
 <!--
 **andreavisani/andreavisani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
