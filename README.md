@@ -2,15 +2,17 @@
 
 I'm a dedicated computer programmer with a passion for coding and a drive to continually improve my skills. From developing algorithms to crafting efficient software solutions, I thrive on the challenges of programming and am committed to pushing the boundaries of what I can achieve through code.
 
-## 🌱 Skills:
+## 🌱 Technical Skills:
 ### Programming Languages: 
-Java, JavaScript, PHP, Python, <b>C</b>, SQL
-### Software Tools: 
-Eclipse, Virtual Studio Code, MySQL Workbench, VMware Workstation Pro, XAMPP, SQL Server Management Studio 19, Umlet, Microsoft Office.
-### DBMS:
-PostgreSQL, MS Access, MySQL, Microsoft SQL Server, Oracle, MongoDB
+Java, JavaScript, PHP, Python, C, SQL
 ### Web-Dev Tools: 
 HTML, CSS
+### DBMS:
+PostgreSQL, MS Access, MySQL, Microsoft SQL Server, Oracle, MongoDB
+### Software Tools: 
+Eclipse, Virtual Studio Code, MySQL Workbench, VMware Workstation Pro, XAMPP, SQL Server Management Studio 19, Umlet, Microsoft Office.
+
+
 
 
 ## 🎓 Studies:
