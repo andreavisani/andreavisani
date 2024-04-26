@@ -2,7 +2,7 @@
 
 I'm a dedicated computer programmer with a passion for coding and a drive to continually improve my skills. From developing algorithms to crafting efficient software solutions, I thrive on the challenges of programming and am committed to pushing the boundaries of what I can achieve through code.
 
-## 🌱 Technical Skills:
+## 📐 Technical Skills:
 ### Programming Languages: 
 Java, JavaScript, PHP, Python, C, SQL
 ### Web-Dev Tools: 
@@ -12,7 +12,10 @@ PostgreSQL, MS Access, MySQL, Microsoft SQL Server, Oracle, MongoDB
 ### Software Tools: 
 Eclipse, Virtual Studio Code, MySQL Workbench, VMware Workstation Pro, XAMPP, SQL Server Management Studio 19, Umlet, Microsoft Office.
 
-
+## 🌱 Soft Skills:
+I excel as a team player and thrive when the entire team is aligned. 
+I pride myself on precision, diving deep into issues to uncover their core. 
+Punctuality is paramount to me, both in appointments and deadlines, all while upholding high standards of quality.
 
 
 ## 🎓 Studies:
