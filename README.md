@@ -2,9 +2,20 @@
 
 I'm a dedicated computer programmer with a passion for coding and a drive to continually improve my skills. From developing algorithms to crafting efficient software solutions, I thrive on the challenges of programming and am committed to pushing the boundaries of what I can achieve through code.
 
-## 🌱 Studies:
-I'm currently enrolled in Computer Programming at Algonquin College ([take a look at my courses](https://www.algonquincollege.com/sat/program/computer-programming/#courses)).
-I'm proudly maintaining a GPA of 4.0 and have been nominated to the dean's list.
+## 🌱 Skills:
+### Programming Languages: 
+Java, JavaScript, PHP, Python, <b>C</b>, SQL
+### Software Tools: 
+Eclipse, Virtual Studio Code, MySQL Workbench, VMware Workstation Pro, XAMPP, SQL Server Management Studio 19, Umlet, Microsoft Office.
+### DBMS:
+PostgreSQL, MS Access, MySQL, Microsoft SQL Server, Oracle, MongoDB
+### Web-Dev Tools: 
+HTML, CSS
+
+
+## 🎓 Studies:
+I'm currently on level 3 of Computer Programming at Algonquin College ([take a look at my courses](https://www.algonquincollege.com/sat/program/computer-programming/#courses)).
+I'm proudly maintaining a GPA of 4.0 and have been nominated to the dean's list every semester.
 
 ## 📫 Contact Me:
 Feel free to reach out to me via email:
