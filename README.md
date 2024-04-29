@@ -4,7 +4,7 @@ I'm a dedicated computer programmer with a passion for coding and a drive to con
 
 ## 📐 Technical Skills:
 ### Programming Languages: 
-Java, JavaScript, PHP, Python, C, SQL
+Java, JavaScript, PHP, Python, C, SQL, Bash
 ### Web-Dev Tools: 
 HTML, CSS
 ### DBMS:
