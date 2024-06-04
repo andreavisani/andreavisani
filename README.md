@@ -4,19 +4,20 @@ I'm a dedicated computer programmer with a passion for coding and a drive to con
 
 ## 📐 Technical Skills:
 ### Programming Languages: 
-Java, JavaScript, PHP, Python, C, SQL, Bash
+Java, JavaScript, PHP, SQL, Dart, Python, C#, Bash
 ### Web-Dev Tools: 
 HTML, CSS
 ### DBMS:
 PostgreSQL, MS Access, MySQL, Microsoft SQL Server, Oracle, MongoDB
-### Software Tools: 
-Eclipse, Virtual Studio Code, MySQL Workbench, VMware Workstation Pro, XAMPP, SQL Server Management Studio 19, Umlet, Microsoft Office.
+### Developer Tools: 
+Git/GitHub, Eclipse, Android Studio, VS Code, VMware, XAMPP, NetBeans, MS Office, RapidMiner, Unity, Umlet, Microsoft Office.
 
 ## 🌱 Soft Skills:
-I excel as a team player and thrive when the entire team is aligned. 
-I pride myself on precision, diving deep into issues to uncover their core. 
-Punctuality is paramount to me, both in appointments and deadlines, all while upholding high standards of quality.
-
+I excel as a team player and proactive team member.
+Detail-oriented individual with strong organizational skills and effective time management.
+Strong communication and interpersonal skills.
+Excellent problem-solving and analytical skills.
+Familiar with Agile and Scrum methodologies.
 
 ## 🎓 Studies:
 I'm currently on level 3 of Computer Programming at Algonquin College ([take a look at my courses](https://www.algonquincollege.com/sat/program/computer-programming/#courses)).
@@ -25,7 +26,6 @@ I'm proudly maintaining a GPA of 4.0 and have been nominated to the dean's list 
 ## 📫 Contact Me:
 Feel free to reach out to me via email:
 - visa0004@algonquinlive.com
-- visaniandrea.92@gmail.com
 
 Let's connect on [LinkedIn](https://www.linkedin.com/in/andreavisani/)
 
