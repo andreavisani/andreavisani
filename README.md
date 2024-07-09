@@ -1,10 +1,10 @@
 # Hi there, I'm Andrea Visani 👋
 
-I'm a dedicated computer programmer with a passion for coding and a drive to continually improve my skills. From developing algorithms to crafting efficient software solutions, I thrive on the challenges of programming and am committed to pushing the boundaries of what I can achieve through code.
+I'm a dedicated software developer with a passion for coding and a drive to continually improve my skills. From developing algorithms to crafting efficient software solutions, I thrive on the challenges of programming and am committed to pushing the boundaries of what I can achieve through code.
 
 ## 📐 Technical Skills:
 ### Programming Languages: 
-Java, JavaScript, PHP, SQL, Dart, Python, C#, Bash
+Java, C++, JavaScript, PHP, SQL, Dart, Bash
 ### Web-Dev Tools: 
 HTML, CSS
 ### DBMS:
