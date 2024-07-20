@@ -2,7 +2,7 @@
 
 I'm a dedicated software developer with a passion for coding and a drive to continually improve my skills. From developing algorithms to crafting efficient software solutions, I thrive on the challenges of programming and am committed to pushing the boundaries of what I can achieve through code.
 
-## 📐 Technical Skills:
+## 💻 Technical Skills:
 ### Programming Languages: 
 Java, C++, JavaScript, PHP, SQL, Dart, Bash
 ### Web-Dev Tools: 
@@ -10,7 +10,7 @@ HTML, CSS
 ### DBMS:
 PostgreSQL, MS Access, MySQL, Microsoft SQL Server, Oracle, MongoDB
 ### Developer Tools: 
-Git/GitHub, Eclipse, Android Studio, VS Code, VMware, XAMPP, NetBeans, MS Office, RapidMiner, Unity, Umlet, Microsoft Office.
+Git/GitHub, Eclipse, Android Studio, VSCode, VMware, XAMPP, NetBeans, MS Office, RapidMiner, Unity, Umlet.
 
 ## 🌱 Soft Skills:
 I excel as a team player and proactive team member.
