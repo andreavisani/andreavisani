@@ -4,9 +4,9 @@ I'm a dedicated software developer with a passion for coding and a drive to cont
 
 ## 💻 Technical Skills:
 ### Programming Languages: 
-Java, C++, JavaScript, PHP, SQL, Dart, Bash
+Java, TypeScript, PHP, SQL, Dart, Bash
 ### Web-Dev Tools: 
-HTML, CSS
+HTML, CSS, SolidJS
 ### DBMS:
 PostgreSQL, MS Access, MySQL, Microsoft SQL Server, Oracle, MongoDB
 ### Developer Tools: 
