@@ -20,17 +20,17 @@ Excellent problem-solving and analytical skills.
 Familiar with Agile and Scrum methodologies.
 
 ## 🎓 Studies:
-I'm currently on level 3 of Computer Programming at Algonquin College ([take a look at my courses](https://www.algonquincollege.com/sat/program/computer-programming/#courses)).
+I'm currently on level 4 of Computer Programming at Algonquin College ([take a look at my courses](https://www.algonquincollege.com/sat/program/computer-programming/#courses)).
 I'm proudly maintaining a GPA of 4.0 and have been nominated to the dean's list every semester.
 
 ## 📫 Contact Me:
 Feel free to reach out to me via email:
-- visa0004@algonquinlive.com
+- visaniandrea.92@gmail.com
 
 Let's connect on [LinkedIn](https://www.linkedin.com/in/andreavisani/)
 
 ## Extra:
-Beyond my academic pursuits, I am a fervent soccer enthusiast. Recently, I uncovered a newfound passion for indoor climbing, and I pride myself on being a proficient home cook.
+Beyond my academic pursuits, I am a fervent soccer enthusiast.
 
 
 
