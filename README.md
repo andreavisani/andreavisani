@@ -6,7 +6,7 @@ I'm a dedicated software developer with a passion for coding and a drive to cont
 ### Programming Languages: 
 Java, TypeScript, PHP, SQL, Dart, Bash
 ### Web-Dev Tools: 
-HTML, CSS, SolidJS
+React, SolidJS, HTML, CSS
 ### DBMS:
 PostgreSQL, MS Access, MySQL, Microsoft SQL Server, Oracle, MongoDB
 ### Developer Tools: 
@@ -20,8 +20,8 @@ Excellent problem-solving and analytical skills.
 Familiar with Agile and Scrum methodologies.
 
 ## 🎓 Studies:
-I'm currently on level 4 of Computer Programming at Algonquin College ([take a look at my courses](https://www.algonquincollege.com/sat/program/computer-programming/#courses)).
-I'm proudly maintaining a GPA of 4.0 and have been nominated to the dean's list every semester.
+Computer Programming at Algonquin College ([take a look at my courses](https://www.algonquincollege.com/sat/program/computer-programming/#courses)).
+Gradiated with a GPA of 4.0.
 
 ## 📫 Contact Me:
 Feel free to reach out to me via email:
