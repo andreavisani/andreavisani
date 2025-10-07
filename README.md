@@ -21,7 +21,7 @@ Familiar with Agile and Scrum methodologies.
 
 ## 🎓 Studies:
 Computer Programming at Algonquin College ([take a look at my courses](https://www.algonquincollege.com/sat/program/computer-programming/#courses)).
-Gradiated with a GPA of 4.0.
+Graduated with a GPA of 4.0.
 
 ## 📫 Contact Me:
 Feel free to reach out to me via email:
